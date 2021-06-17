@@ -1,0 +1,5 @@
+webrtcvad
+imagehash
+pptx
+pytesseract
+opencv-python
